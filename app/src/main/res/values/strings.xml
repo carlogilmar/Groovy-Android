@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="false_value">No Cherto :P</string>
+    <string name="true_value">Chi Chierto</string>
+</resources>

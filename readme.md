@@ -5,6 +5,7 @@ El proyecto contiene dos archivos build.gradle
 En el build.gradle de **app** van las lineas:
 
 > apply plugin: 'groovyx.android'
+
 > compile "org.codehaus.groovy:groovy:2.4.7:grooid"
 
 En el build.gradle de **MyApplication** va
